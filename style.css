@@ -1,0 +1,20 @@
+*{
+  color: white;
+}
+#pic{
+  border: 5px solid white;
+  margin-top: 30px;
+  margin-left: 100;
+  width: 100%;
+}
+.normal{
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+}
+h2{
+  font-family: "Noto Serif JP";
+}
+body{
+    background-color: black;
+}
